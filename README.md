@@ -2,7 +2,7 @@
 A set of models created from Google's library for deep learning and artificial intelligence.
 
 ### 1. Boston Housing Prices
-Linear Regression for the Skikit Learn Housing Prices package.
+Linear Regression for the Scikit Learn Housing Prices package.
 
 ### 2. Linear Classification for Diabetes
 An analysis and classification of the pima-indians-diabetes-database.
