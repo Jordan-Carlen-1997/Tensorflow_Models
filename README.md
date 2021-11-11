@@ -9,3 +9,6 @@ An analysis and classification of the pima-indians-diabetes-database.
 
 ### 3. ANN Diabetes
 Analysis of the Pima Indians onset of diabetes dataset and performing Multi-Classification with an Forwardfeed Artifical Neural Network.
+
+### 3. CNN CIFAR
+Concolution Neural Network of the CIFAR-10 dataset.
