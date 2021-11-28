@@ -16,5 +16,8 @@ Convolution Neural Network of the CIFAR-10 dataset.
 ### 5. RNN Stock Predictions
 Recurrent Neural Network of a set of stock data, attempting to predict future prices with GRU and LSTM... and showing why it doesn't work.
 
-### 5. RNN Airline Sentiment
+### 6. RNN Airline Sentiment
 Recurrent Neural Network comparing tweet sentiment on airlines.
+
+### 7. Book Rating Recommender System
+A Book Rating Recommender System built off the data from a Book-Crossing Dataset by the Institut für Informatik.
