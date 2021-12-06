@@ -21,3 +21,6 @@ Recurrent Neural Network comparing tweet sentiment on airlines.
 
 ### 7. Book Rating Recommender System
 A Book Rating Recommender System built off the data from a Book-Crossing Dataset by the Institut für Informatik.
+
+### 8. GAN MNIST
+A Generative adversarial network for reading numbers from the MNIST dataset.
