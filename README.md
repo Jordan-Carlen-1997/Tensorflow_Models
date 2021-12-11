@@ -24,3 +24,6 @@ A Book Rating Recommender System built off the data from a Book-Crossing Dataset
 
 ### 8. GAN MNIST
 A Generative adversarial network for reading numbers from the MNIST dataset.
+
+### 9. RL Stock Trader
+A neural network which utilizes reinforcement learning trained against a set of stock data. Like the RNN, counterpart, this too is unreliable. 
