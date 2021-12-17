@@ -27,3 +27,6 @@ A Generative adversarial network for reading numbers from the MNIST dataset.
 
 ### 9. RL Stock Trader
 A neural network which utilizes reinforcement learning trained against a set of stock data. Like the RNN, counterpart, this too is unreliable. 
+
+### 10. Breast_Cancer_Logistic_Classification
+Logistic Classification of the breast cancer wisconsin dataset.
